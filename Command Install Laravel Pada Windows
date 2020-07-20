@@ -1,0 +1,9 @@
+// Sebelum Install Laravel, Xampp dan Composer harus sudah terinstall
+// Link install Xampp : https://www.apachefriends.org/download.html
+// Link install Composer : https://getcomposer.org/download/
+// Setelah keduanya sudah terinstall, buka cmd lalu ke file direktori pada Xampp dengan ketikkan : cd \xampp\htdocs
+// Lalu membuat request untuk mengambil file laravelnya dengan ketikkan : composer create-project --prefer-dist laravel/laravel namafoldernyaapa
+// Dan jika sudah selesai download, pastikan laravelnya sudah terinstall dengan ketikkan : cd namafoldernyaapa
+// Lalu ketikkan : php artisan serve
+// Jika muncul tulisan Laravel development server started, maka setelah itu copy link yang sudah tertera di terminal dan paste di browser.
+
